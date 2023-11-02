@@ -1,10 +1,11 @@
 import React from "react";
-import { ReactDOM } from "react";
 
 function Header() {
-    <header>
+    return(
+        <header>
         <h1>Keeper App</h1>
-    </header>
+        </header>
+    );
 }
 
 export default Header;
